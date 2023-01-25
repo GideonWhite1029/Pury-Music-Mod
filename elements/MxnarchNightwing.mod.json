@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Nightwing",
+    "texture": "music_disc_13",
+    "description": "mxnarch - Nightwing",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:nightwing"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

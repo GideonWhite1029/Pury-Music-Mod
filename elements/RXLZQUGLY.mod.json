@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "UGLY",
+    "texture": "music_disc_blocks",
+    "description": "RXLZQ - UGLY",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ugly"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

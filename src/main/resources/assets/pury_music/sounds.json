@@ -1,0 +1,137 @@
+{
+  "aurora": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:13",
+        "stream": true
+      }
+    ]
+  },
+  "nightwing": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:cat",
+        "stream": true
+      }
+    ]
+  },
+  "be_a": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:blocks",
+        "stream": true
+      }
+    ]
+  },
+  "qwq": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:mellohi",
+        "stream": true
+      }
+    ]
+  },
+  "virtual_world": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:stal",
+        "stream": true
+      }
+    ]
+  },
+  "shape_of_voice": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:strad",
+        "stream": true
+      }
+    ]
+  },
+  "takeda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:far",
+        "stream": true
+      }
+    ]
+  },
+  "skinny_life": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:11",
+        "stream": true
+      }
+    ]
+  },
+  "fear": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:wait",
+        "stream": true
+      }
+    ]
+  },
+  "breath_of_fire": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:pigstep",
+        "stream": true
+      }
+    ]
+  },
+  "my_favorite_name": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:otherside",
+        "stream": true
+      }
+    ]
+  },
+  "hellsing": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:5",
+        "stream": true
+      }
+    ]
+  },
+  "born_to_fly": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:ward",
+        "stream": true
+      }
+    ]
+  },
+  "wowutuvebaang": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:mall",
+        "stream": true
+      }
+    ]
+  },
+  "ugly": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pury_music:chirp",
+        "stream": true
+      }
+    ]
+  }
+}

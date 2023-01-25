@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Skinny Life",
+    "texture": "music_disc_pigstep",
+    "description": "MVTRIIIX - Skinny Life",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:skinny_life"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

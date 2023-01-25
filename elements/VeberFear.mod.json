@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Fear",
+    "texture": "music_disc_stal",
+    "description": "Veber - Fear",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:fear"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

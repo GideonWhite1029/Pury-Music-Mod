@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "RXLZQ Breath Of Fire",
+    "texture": "music_disc_strad",
+    "description": "RXLZQ - Breath Of Fire",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:breath_of_fire"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "wowutuvebaang",
+    "texture": "music_disc_chirp",
+    "description": "Veber - wowutuvebaang",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:wowutuvebaang"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

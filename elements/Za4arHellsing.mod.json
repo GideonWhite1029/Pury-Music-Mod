@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Hellsing",
+    "texture": "music_disc_ward",
+    "description": "Za4ar - Hellsing",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:hellsing"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

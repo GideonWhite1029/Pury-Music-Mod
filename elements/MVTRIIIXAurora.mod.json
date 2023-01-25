@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Aurora",
+    "texture": "music_disc_11",
+    "description": "MVTRIIIX - Aurora",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:aurora"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

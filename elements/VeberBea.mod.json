@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Be a",
+    "texture": "music_disc_5",
+    "description": "Veber - Be a",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:be_a"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Shape Of Voice",
+    "texture": "music_disc_mellohi",
+    "description": "RXLZQ and ONEKLAB - Shape Of Voice",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:shape_of_voice"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

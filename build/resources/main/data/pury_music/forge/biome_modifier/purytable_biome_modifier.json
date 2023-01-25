@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "sunflower_plains",
+    "snowy_plains",
+    "plains",
+    "flower_forest",
+    "desert"
+  ],
+  "features": "pury_music:purytable",
+  "step": "surface_structures"
+}

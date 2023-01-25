@@ -1,0 +1,337 @@
+{
+  "mod_elements": [
+    {
+      "name": "MVTRIIIXAurora",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mvtriiix_aurora"
+    },
+    {
+      "name": "MxnarchNightwing",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mxnarch_nightwing"
+    },
+    {
+      "name": "VeberBea",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "veber_bea"
+    },
+    {
+      "name": "RXLZQUGLY",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rxlzqugly"
+    },
+    {
+      "name": "SeimoroTakeda",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seimoro_takeda"
+    },
+    {
+      "name": "Veberwowutuvebaang",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "veberwowutuvebaang"
+    },
+    {
+      "name": "YPIEQwQ",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ypie_qw_q"
+    },
+    {
+      "name": "VirtualWorld",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "virtual_world"
+    },
+    {
+      "name": "ShapeOfVoice",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shape_of_voice"
+    },
+    {
+      "name": "SwergsBornToFly",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "swergs_born_to_fly"
+    },
+    {
+      "name": "MVTRIIIXSkinnyLife",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mvtriiix_skinny_life"
+    },
+    {
+      "name": "VeberFear",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "veber_fear"
+    },
+    {
+      "name": "RXLZQBreathOfFire",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rxlzq_breath_of_fire"
+    },
+    {
+      "name": "RXLZQMyfavoritename",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rxlzq_myfavoritename"
+    },
+    {
+      "name": "Za4arHellsing",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "za_4ar_hellsing"
+    },
+    {
+      "name": "PurymusicLoot",
+      "type": "loottable",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purymusic_loot"
+    },
+    {
+      "name": "Purytable",
+      "type": "structure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purytable"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "aurora",
+      "files": [
+        "13"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "nightwing",
+      "files": [
+        "cat"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "be_a",
+      "files": [
+        "blocks"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "qwq",
+      "files": [
+        "mellohi"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "virtual_world",
+      "files": [
+        "stal"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "shape_of_voice",
+      "files": [
+        "strad"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "takeda",
+      "files": [
+        "far"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "skinny_life",
+      "files": [
+        "11"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "fear",
+      "files": [
+        "wait"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "breath_of_fire",
+      "files": [
+        "pigstep"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "my_favorite_name",
+      "files": [
+        "otherside"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "hellsing",
+      "files": [
+        "5"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "born_to_fly",
+      "files": [
+        "ward"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "wowutuvebaang",
+      "files": [
+        "mall"
+      ],
+      "category": "record",
+      "subtitle": ""
+    },
+    {
+      "name": "ugly",
+      "files": [
+        "chirp"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.hellsing": "",
+      "item.pury_music.mxnarch_nightwing": "Nightwing",
+      "item.pury_music.shape_of_voice": "Shape Of Voice",
+      "item.pury_music.shape_of_voice.desc": "RXLZQ and ONEKLAB - Shape Of Voice",
+      "item.pury_music.mvtriiix_skinny_life": "Skinny Life",
+      "item.pury_music.rxlzq_breath_of_fire.desc": "RXLZQ - Breath Of Fire",
+      "subtitles.nightwing": "",
+      "item.pury_music.rxlzqugly": "UGLY",
+      "item.pury_music.mvtriiix_skinny_life.desc": "MVTRIIIX - Skinny Life",
+      "subtitles.ugly": "",
+      "item.pury_music.veberwowutuvebaang": "wowutuvebaang",
+      "item.pury_music.za_4ar_hellsing.desc": "Za4ar - Hellsing",
+      "item.pury_music.veberwowutuvebaang.desc": "Veber - wowutuvebaang",
+      "item.pury_music.veber_bea.desc": "Veber - Be a",
+      "item.pury_music.swergs_born_to_fly": "Born To Fly",
+      "item.pury_music.swergs_born_to_fly.desc": "Swergs - Born To Fly",
+      "subtitles.breath_of_fire": "",
+      "subtitles.virtual_world": "",
+      "subtitles.be_a": "",
+      "item.pury_music.za_4ar_hellsing": "Hellsing",
+      "item.pury_music.mvtriiix_aurora.desc": "MVTRIIIX - Aurora",
+      "item.pury_music.veber_fear": "Fear",
+      "item.pury_music.ypie_qw_q.desc": "YPIE - QwQ",
+      "subtitles.shape_of_voice": "",
+      "item.pury_music.rxlzqugly.desc": "RXLZQ - UGLY",
+      "subtitles.qwq": "",
+      "item.pury_music.veber_fear.desc": "Veber - Fear",
+      "item.pury_music.mvtriiix_aurora": "Aurora",
+      "item.pury_music.ypie_qw_q": "QwQ",
+      "item.pury_music.rxlzq_myfavoritename": "My favorite name",
+      "item.pury_music.seimoro_takeda.desc": "seimoro - Takeda",
+      "item.pury_music.virtual_world": "Virtual World",
+      "subtitles.aurora": "",
+      "subtitles.wowutuvebaang": "",
+      "item.pury_music.mxnarch_nightwing.desc": "mxnarch - Nightwing",
+      "subtitles.fear": "",
+      "item.pury_music.rxlzq_breath_of_fire": "RXLZQ Breath Of Fire",
+      "subtitles.skinny_life": "",
+      "item.pury_music.rxlzq_myfavoritename.desc": "RXLZQ - My favorite name",
+      "item.pury_music.seimoro_takeda": "Takeda",
+      "subtitles.takeda": "",
+      "item.pury_music.veber_bea": "Be a",
+      "item.pury_music.virtual_world.desc": "dxaddexd feat gluri - Virtual World",
+      "subtitles.pury_music": "",
+      "subtitles.born_to_fly": "",
+      "subtitles.my_favorite_name": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pury_music",
+    "modName": "Pury Music",
+    "version": "1.0.4",
+    "description": "Music by Pury World",
+    "author": "GideonWhite1029",
+    "websiteURL": "https://insomnia-game.com",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using MCreator",
+    "modElementsPackage": "net.purymusic",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

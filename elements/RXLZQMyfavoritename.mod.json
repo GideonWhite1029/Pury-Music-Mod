@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "My favorite name",
+    "texture": "music_disc_wait",
+    "description": "RXLZQ - My favorite name",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:my_favorite_name"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

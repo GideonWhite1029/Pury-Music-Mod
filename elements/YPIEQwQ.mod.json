@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "QwQ",
+    "texture": "music_disc_far",
+    "description": "YPIE - QwQ",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:qwq"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

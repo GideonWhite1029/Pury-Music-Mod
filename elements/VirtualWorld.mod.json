@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Virtual World",
+    "texture": "music_disc_mall",
+    "description": "dxaddexd feat gluri - Virtual World",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:virtual_world"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

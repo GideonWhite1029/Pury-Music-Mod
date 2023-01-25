@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Born To Fly",
+    "texture": "music_disc_otherside",
+    "description": "Swergs - Born To Fly",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:born_to_fly"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}
